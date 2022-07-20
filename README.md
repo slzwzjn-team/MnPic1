@@ -1,11 +1,3 @@
-# ArtPicturesZjn_ING_202010
+# MnPic1
 
-Tips
-
-```
-git init
-git add .
-git commit -m "Add files via upload"
-git push -u origin main
-git push origin main
-```
+本仓库共收录 5 个文件夹，5004 张图片。
